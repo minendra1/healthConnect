@@ -29,36 +29,7 @@ HealthConnect is a **full-stack Doctor Appointment Booking System** built using 
 
 ## 🏗️ Project Structure
 
-HEALTHCONNECT/
-│
-├── frontend/ # Patient-facing React application
-│ ├── src/
-│ │ ├── component/
-│ │ ├── context/
-│ │ ├── pages/
-│ │ ├── App.jsx
-│ │ └── main.jsx
-│ └── vite.config.js
-│
-├── backend/ # Backend (Node.js + Express)
-│ ├── config/
-│ ├── controllers/
-│ ├── middlewares/
-│ ├── models/
-│ ├── routes/
-│ └── server.js
-│
-├── admin/ # Admin & Doctor dashboard (React)
-│ ├── src/
-│ │ ├── components/
-│ │ ├── context/
-│ │ ├── pages/
-│ │ ├── App.jsx
-│ │ └── main.jsx
-│ └── vite.config.js
-│
-└── README.md
----
+![image alt](https://github.com/minendra1/healthConnect/blob/5c080dd0d94458a4db5d1f5619488353d97dbcf1/Screenshot%202025-12-24%20190529.png)
 
 ## 🧰 Tech Stack
 
