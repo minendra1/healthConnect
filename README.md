@@ -114,4 +114,6 @@ Portfolio & Resume Project
 
 📸 Screenshots:![image alt](https://github.com/minendra1/healthConnect/blob/06930e4cbd2eb1b3adb7cd7553f9d8ef2c04ad33/Screenshot%202025-12-24%20185126.png)
 
+![image alt](https://github.com/minendra1/healthConnect/blob/aef8dcfa38cbbca7c7b714d34ed30ae98e9d8552/Screenshot%202025-12-24%20185155.png)
+
 
