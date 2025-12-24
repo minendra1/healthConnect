@@ -112,6 +112,6 @@ College / Final Year Project
 
 Portfolio & Resume Project
 
-📸 Screenshots
+📸 Screenshots:
 
 
