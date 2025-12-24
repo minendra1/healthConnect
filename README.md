@@ -72,16 +72,8 @@ Admin → Manage doctors and appointments
 (Admin accounts can be created manually or seeded in the database.)
 
 📌 Use Cases
-
 Doctor Appointment Booking Platform
-
-Hospital Management System
-
-MERN Stack Learning Project
-
-College / Final Year Project
-
-Portfolio & Resume Project
+Hospital Management System 
 
 📸 Screenshots:![image alt](https://github.com/minendra1/healthConnect/blob/06930e4cbd2eb1b3adb7cd7553f9d8ef2c04ad33/Screenshot%202025-12-24%20185126.png)
 
